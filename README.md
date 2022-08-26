@@ -11,3 +11,5 @@ Subjects:
   - Comparative Culture
   - Oral and Written Communication Workshop
   - Environment and Sustainable Development
+
+  Basic changes
